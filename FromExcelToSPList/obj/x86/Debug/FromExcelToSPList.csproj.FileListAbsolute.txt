@@ -1,0 +1,13 @@
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\bin\Debug\FromExcelToSPList.exe.config
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\bin\Debug\FromExcelToSPList.exe.manifest
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\bin\Debug\FromExcelToSPList.application
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\bin\Debug\FromExcelToSPList.exe
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\bin\Debug\FromExcelToSPList.pdb
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\obj\x86\Debug\FromExcelToSPList.csprojResolveAssemblyReference.cache
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\obj\x86\Debug\FromExcelToSPList.csproj.ResolveComReference.cache
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\obj\x86\Debug\FromExcelToSPList.exe.manifest
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\obj\x86\Debug\FromExcelToSPList.application
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\obj\x86\Debug\FromExcelToSPList.exe
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\obj\x86\Debug\FromExcelToSPList.pdb
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\bin\Debug\ExcelPackage.dll
+C:\Users\uko\documents\visual studio 2010\Projects\FromExcelToSPList\FromExcelToSPList\bin\Debug\ExcelPackage.pdb
